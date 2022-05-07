@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiBugs", "ApiBugs\ApiBugs.csproj", "{749BCAB3-5AEA-41AF-87D5-445995420064}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{2547D978-9DA3-433A-BD3F-2647BB40A9F1}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{749BCAB3-5AEA-41AF-87D5-445995420064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{749BCAB3-5AEA-41AF-87D5-445995420064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{749BCAB3-5AEA-41AF-87D5-445995420064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{749BCAB3-5AEA-41AF-87D5-445995420064}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16A60FC1-6CCB-4343-85F1-8A83267616A6}
+	EndGlobalSection
+EndGlobal
